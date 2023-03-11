@@ -14,9 +14,6 @@ export default Manifest({
     SummarizeWorkflow,
   ],
   botScopes: [
-    "commands",
-    "datastore:read",
-    "datastore:write",
     "channels:history",
     "channels:join",
     "channels:read",
