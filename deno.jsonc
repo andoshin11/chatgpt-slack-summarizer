@@ -4,5 +4,10 @@
     "rules": {
       "exclude": ["no-explicit-any", "require-await"]
     }
+  },
+  "fmt": {
+    "files": {
+      "exclude": ["README.md"]
+    }
   }
 }
